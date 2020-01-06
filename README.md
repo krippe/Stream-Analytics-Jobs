@@ -1,2 +1,2 @@
 # Stream-Analytics-Jobs
-Backup for different Stream Analytics jobs
+Divers Stream Analytics jobb för teknisk analys av twitter
